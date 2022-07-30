@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Muneeb-T/React-netflix-simple-clone/precache-manifest.7ee6d34f7e348a2cb97f8934e582a141.js"
+  "/Muneeb-T/React-netflix-simple-clone/precache-manifest.2fd7832837e22f85e7ba9b7a60f6ba12.js"
 );
 
 workbox.clientsClaim();

@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "03cad58f3aaac748ebd3",
+    "revision": "165e9d0e1d14b011a6fa",
     "url": "/Muneeb-T/React-netflix-simple-clone/static/css/main.a4a38f01.chunk.css"
   },
   {
-    "revision": "03cad58f3aaac748ebd3",
-    "url": "/Muneeb-T/React-netflix-simple-clone/static/js/main.03cad58f.chunk.js"
+    "revision": "165e9d0e1d14b011a6fa",
+    "url": "/Muneeb-T/React-netflix-simple-clone/static/js/main.165e9d0e.chunk.js"
   },
   {
     "revision": "53bb4e2bc0d7f895da2b",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Muneeb-T/React-netflix-simple-clone/static/js/runtime~main.7d1e83e2.js"
   },
   {
-    "revision": "fb38bf2054852c8364cd4647d3116970",
+    "revision": "6ada6c59f9e1860c2c2d3a5874064ad0",
     "url": "/Muneeb-T/React-netflix-simple-clone/index.html"
   }
 ];
