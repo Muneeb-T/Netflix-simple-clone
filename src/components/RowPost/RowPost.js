@@ -17,10 +17,12 @@ function RowPost(props) {
 	const handleMovieTrailer = (id) => {
 		axios.get(`/movie/${id}/videos?api_key=${API_KEY}&language=en-US`).then((response) => {
 			const trailers = response.data.results;
-			if (trailers.length !== 0) {
-				setTrailerUrlId(trailers[0]);
-			} else {
-				console.log('Array empty');
+			if (trailers) {
+				if (trailers.length !== 0) {
+					setTrailerUrlId(trailers[0]);
+				} else {
+					console.log('Array empty');
+				}
 			}
 		});
 	};
